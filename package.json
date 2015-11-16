@@ -1,0 +1,31 @@
+{
+  "name": "mirror-issues",
+  "version": "0.0.1",
+  "description": "mirror a Github repo's issues",
+  "main": "mirror-issues.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/mirror-issues.git"
+  },
+  "keywords": [
+    "mirror",
+    "clone",
+    "for",
+    "manualfork",
+    "issues",
+    "tracker",
+    "repo",
+    "repository",
+    "github",
+    "git"
+  ],
+  "author": "Trent Oswald <trentoswald@therebelrobot.com> (@therebelrobot)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/mirror-issues/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/mirror-issues#readme"
+}
